@@ -10,9 +10,6 @@ Practical experiments in AI automation, content workflows, and digital publishin
 
 ## Links
 
-- [Xihero Market](https://xihero.market/) - lifestyle and shopping content
-- [Xinews](https://xinews.tistory.com/) - news and current issues
-- [X](https://x.com/xiherosix)
-- [Facebook](https://www.facebook.com/xihero)
+- [Threads @xiherosix](https://www.threads.com/@xiherosix)
 
 More projects and documentation will be added as they are published.
