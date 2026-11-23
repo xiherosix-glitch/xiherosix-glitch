@@ -1,16 +1,18 @@
-## Hi there 👋
+# Xihero
 
-<!--
-**xiherosix-glitch/xiherosix-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Practical experiments in AI automation, content workflows, and digital publishing.
 
-Here are some ideas to get you started:
+## What I'm building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Repeatable workflows that connect AI tools and publishing platforms
+- Small automation experiments with clear verification steps
+- Documentation that turns one-off tasks into reusable processes
+
+## Links
+
+- [Xihero Market](https://xihero.market/) - lifestyle and shopping content
+- [Xinews](https://xinews.tistory.com/) - news and current issues
+- [X](https://x.com/xiherosix)
+- [Facebook](https://www.facebook.com/xihero)
+
+More projects and documentation will be added as they are published.
